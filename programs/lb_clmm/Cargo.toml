@@ -27,7 +27,7 @@ ruint = "1.3.0"
 num-traits = "0.2.16"
 num-integer = "0.1.45"
 mpl-token-metadata = "3.0.1"
-solana-program = "1.16"
+solana-program = "1.16.27"
 num_enum = "0.7.1"
 
 [dev-dependencies]
