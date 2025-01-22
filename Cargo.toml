@@ -27,6 +27,11 @@ ureq = "2.0.0"
 bincode = "1.3.3"
 commons = { path = "./commons" }
 
+
+[patch.crates-io]
+solana-sdk = { version = "1.18.22" }  # Specify the version you want to use
+
+
 [profile.release]
 overflow-checks = true
 lto = "fat"
